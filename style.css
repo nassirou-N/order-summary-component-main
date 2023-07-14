@@ -120,3 +120,11 @@ a:hover{
 .cancel_order{
     cursor: pointer;
 }
+/* ============media quiery======== */
+
+
+@media (width:375px){
+    .main{
+        background-image: url("./images/pattern-background-mobile.svg");
+    }
+}
